@@ -9,7 +9,7 @@ const path = require('path')
 const dotenv = require('dotenv')
 dotenv.config()
 
-
+const CSVLink = 'https://catalog.ourworldindata.org/explorers/who/latest/monkeypox/monkeypox.csv'
 let MPOX_DATA = undefined;
 
 try {
@@ -24,15 +24,16 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const client = new openai.OpenAI({
     apiKey: OPENAI_API_KEY
 });
-
+const countryCodesCache = {}
 async function getCountryCode(country) {
     try {
+        if (countryCodesCache[country]) return countryCodesCache[country]
         const response = await client.chat.completions.create({
             messages: [{ role: 'user', content: `What is the country code for ${country}? Respond only with the country code of 2 characaters` }],
             model: 'gpt-3.5-turbo',
 
         });
-
+        countryCodesCache[country] = response.choices[0].message.content
         return response.choices[0].message.content;
     } catch (error) {
         console.error('Error sending prompt to OpenAI:', error.response ? error.response.data : error.message);
@@ -72,8 +73,14 @@ app.use(express.static(path.join(__dirname, 'dist'))); //  "public" off of curre
 
 app.get('/update', async (req, res) => {
 
+    const filteredArr = update()
+
+    return res.send(filteredArr)
+
+})
+async function update() {
     const stream = fs.createWriteStream('./data/MPX-Cases-Deaths-by-Country.csv');
-    const { body } = await fetch('https://www.cdc.gov/poxvirus/mpox/data/MPX-Cases-Deaths-by-Country.csv')
+    const { body } = await fetch(CSVLink)
     await finished(Readable.fromWeb(body).pipe(stream))
 
     const arr = [];
@@ -88,38 +95,89 @@ app.get('/update', async (req, res) => {
     // console.log(data[0]);
 
     const header = data.shift()
-    const countryIndex = (header.findIndex(x => x === 'Country'));
-    const casesIndex = (header.findIndex(x => x === 'Cases'));
-    const deathsIndex = (header.findIndex(x => x === 'Deaths'));
+    const countryIndex = (header.findIndex(x => x === 'location'));
+    const casesIndex = (header.findIndex(x => x === 'total_cases'));
+    const deathsIndex = (header.findIndex(x => x === 'total_deaths'));
+    const newCasesIndex = (header.findIndex(x => x === 'new_cases'));
+    const newDeathsIndex = (header.findIndex(x => x === 'new_deaths'));
+    const dateIndex = (header.findIndex(x => x === 'date'));
+
 
     console.log(header);
-
+    const countryCodes = {}
     for (let i = 0; i < data.length; i++) {
         const country = data[i][countryIndex]
-        const countryCode = await getCountryCode(data[i][countryIndex]);
+        if (!countryCodes[country]) {
+            const countryCode = await getCountryCode(data[i][countryIndex]);
+            countryCodes[country] = countryCode
+        }
         const cases = data[i][casesIndex]
         const deaths = data[i][deathsIndex]
-        const location = countryCenterMap.get(countryCode)
+        const location = countryCenterMap.get(countryCodes[country])
+        const newCases = data[i][newCasesIndex]
+        const newDeaths = data[i][newDeathsIndex]
+        const date = data[i][dateIndex]
         console.log(location);
-
+        if (!location) continue
         arr.push({
             country,
-            countryCode,
+            countryCode: countryCodes[country],
             cases,
             deaths,
-            location
+            location,
+            newCases,
+            newDeaths,
+            date
+
         })
     }
-    console.log(arr);
+    const filteredArr = filterData(arr)
+    fs.writeFileSync('./dist/data.json', JSON.stringify(filteredArr))
+    console.log(filteredArr);
 
-    fs.writeFileSync('./dist/data.json', JSON.stringify(arr))
+    MPOX_DATA = filteredArr;
 
-    MPOX_DATA = arr;
-
-    return res.send(arr)
-
-})
-
+    return filteredArr
+}
+function filterData(arr) {
+    const countries = {}
+    for (let record of arr) {
+        if (!countries[record.country]) {
+            countries[record.country] = []
+        }
+        countries[record.country].push(record)
+    }
+    let countriesSummaries = []
+    for (let country of Object.keys(countries)) {
+        const startYear = new Date(countries[country][0].date).getFullYear()
+        const currentYear = new Date().getFullYear()
+        const totalCases = countries[country][countries[country].length - 1].cases
+        const totalDeaths = countries[country][countries[country].length - 1].deaths
+        const countrySummary = {
+            country: countries[country][0].country,
+            countryCode: countries[country][0].countryCode,
+            cases: totalCases,
+            deaths: totalDeaths,
+            location: countries[country][0].location,
+        }
+        for (let year = startYear; year <= currentYear; year++) {
+            let cases = 0
+            let deaths = 0
+            countries[country].forEach((record) => {
+                if (new Date(record.date).getFullYear() == year) {
+                    cases += +record.newCases
+                    deaths += +record.newDeaths
+                }
+            })
+            countrySummary[year] = {
+                cases,
+                deaths
+            }
+        }
+        countriesSummaries.push(countrySummary)
+    }
+    return countriesSummaries
+}
 
 app.get('/', async (req, res) => {
     try {
@@ -136,7 +194,16 @@ app.get('/', async (req, res) => {
         console.log(e);
     }
 })
-
+function delay(time) {
+    return new Promise(resolve => setTimeout(resolve, time));
+}
+async function run() {
+    while(1) {
+        await update()
+        await delay(24 * 60 * 60 * 1000)
+    }
+}
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
+    run()
 })
