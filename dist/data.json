@@ -1,1 +1,2265 @@
-[{"2022":{"cases":1208,"deaths":14},"2023":{"cases":1155,"deaths":7},"2024":{"cases":3535,"deaths":25},"country":"Africa","countryCode":"AF","cases":"5938","deaths":"48","location":"33.93911,67.709953"},{"2022":{"cases":4,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Andorra","countryCode":"AD","cases":"4","deaths":"0","location":"42.546245,1.601554"},{"2022":{"cases":1018,"deaths":1},"2023":{"cases":118,"deaths":1},"2024":{"cases":18,"deaths":0},"country":"Argentina","countryCode":"AR","cases":"1154","deaths":"2","location":"-38.416097,-63.616672"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Aruba","countryCode":"AW","cases":"3","deaths":"0","location":"12.52111,-69.968338"},{"2022":{"cases":410,"deaths":1},"2023":{"cases":4114,"deaths":9},"2024":{"cases":841,"deaths":12},"country":"Asia","countryCode":"AS","cases":"5365","deaths":"22","location":"-14.270972,-170.132217"},{"2022":{"cases":144,"deaths":0},"2023":{"cases":26,"deaths":0},"2024":{"cases":283,"deaths":0},"country":"Australia","countryCode":"AU","cases":"453","deaths":"0","location":"-25.274398,133.775136"},{"2022":{"cases":327,"deaths":0},"2023":{"cases":11,"deaths":0},"2024":{"cases":10,"deaths":1},"country":"Austria","countryCode":"AT","cases":"348","deaths":"1","location":"47.516231,14.550072"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":2,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Bahamas","countryCode":"BS","cases":"3","deaths":"0","location":"25.03428,-77.39628"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Bahrain","countryCode":"BH","cases":"2","deaths":"0","location":"25.930414,50.637772"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Barbados","countryCode":"BB","cases":"1","deaths":"0","location":"13.193887,-59.543198"},{"2022":{"cases":790,"deaths":1},"2023":{"cases":10,"deaths":1},"2024":{"cases":11,"deaths":0},"country":"Belgium","countryCode":"BE","cases":"811","deaths":"2","location":"50.503887,4.469936"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Benin","countryCode":"BJ","cases":"3","deaths":"0","location":"9.30769,2.315834"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Bermuda","countryCode":"BM","cases":"1","deaths":"0","location":"32.321384,-64.75737"},{"2022":{"cases":261,"deaths":0},"2023":{"cases":4,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Bolivia","countryCode":"BO","cases":"265","deaths":"0","location":"-16.290154,-63.588653"},{"2022":{"cases":9,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Bosnia and Herzegovina","countryCode":"BA","cases":"9","deaths":"0","location":"43.915886,17.679076"},{"2022":{"cases":10317,"deaths":15},"2023":{"cases":839,"deaths":0},"2024":{"cases":702,"deaths":0},"country":"Brazil","countryCode":"BR","cases":"11858","deaths":"15","location":"-14.235004,-51.92528"},{"2022":{"cases":6,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":1,"deaths":0},"country":"Bulgaria","countryCode":"BG","cases":"7","deaths":"0","location":"42.733883,25.48583"},{"2024":{"cases":170,"deaths":0},"country":"Burundi","countryCode":"BI","cases":"170","deaths":"0","location":"-3.373056,29.918886"},{"2023":{"cases":1,"deaths":0},"2024":{"cases":12,"deaths":0},"country":"Cambodia","countryCode":"KH","cases":"13","deaths":"0","location":"12.565679,104.990963"},{"2022":{"cases":15,"deaths":2},"2023":{"cases":27,"deaths":0},"2024":{"cases":5,"deaths":2},"country":"Cameroon","countryCode":"CM","cases":"50","deaths":"5","location":"7.369722,12.354722"},{"2022":{"cases":1399,"deaths":0},"2023":{"cases":69,"deaths":0},"2024":{"cases":111,"deaths":0},"country":"Canada","countryCode":"CA","cases":"1581","deaths":"0","location":"56.130366,-106.346771"},{"2022":{"cases":11,"deaths":0},"2023":{"cases":17,"deaths":1},"2024":{"cases":45,"deaths":1},"country":"Central African Republic","countryCode":"CF","cases":"92","deaths":"2","location":"6.611111,20.939444"},{"2022":{"cases":1377,"deaths":3},"2023":{"cases":72,"deaths":1},"2024":{"cases":0,"deaths":0},"country":"Chile","countryCode":"CL","cases":"1449","deaths":"4","location":"-35.675147,-71.542969"},{"2022":{"cases":6,"deaths":0},"2023":{"cases":2121,"deaths":1},"2024":{"cases":414,"deaths":0},"country":"China","countryCode":"CN","cases":"2541","deaths":"1","location":"35.86166,104.195397"},{"2022":{"cases":4059,"deaths":0},"2023":{"cases":89,"deaths":0},"2024":{"cases":109,"deaths":0},"country":"Colombia","countryCode":"CO","cases":"4257","deaths":"0","location":"4.570868,-74.297333"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":21,"deaths":2},"2024":{"cases":19,"deaths":0},"country":"Congo","countryCode":"CG","cases":"45","deaths":"2","location":"-0.228021,15.827659"},{"2022":{"cases":70,"deaths":0},"2023":{"cases":156,"deaths":1},"2024":{"cases":0,"deaths":0},"country":"Costa Rica","countryCode":"CR","cases":"226","deaths":"1","location":"9.748917,-83.753428"},{"2022":{"cases":29,"deaths":0},"2023":{"cases":4,"deaths":0},"2024":{"cases":1,"deaths":0},"country":"Croatia","countryCode":"HR","cases":"34","deaths":"0","location":"45.1,15.2"},{"2022":{"cases":8,"deaths":1},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Cuba","countryCode":"CU","cases":"8","deaths":"1","location":"21.521757,-77.781167"},{"2022":{"cases":5,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Cyprus","countryCode":"CY","cases":"5","deaths":"0","location":"35.126413,33.429859"},{"2022":{"cases":71,"deaths":1},"2023":{"cases":0,"deaths":0},"2024":{"cases":11,"deaths":0},"country":"Czechia","countryCode":"CZ","cases":"82","deaths":"1","location":"49.817492,15.472962"},{"2022":{"cases":279,"deaths":0},"2023":{"cases":966,"deaths":2},"2024":{"cases":3235,"deaths":19},"country":"Democratic Republic of Congo","countryCode":"CD","cases":"","deaths":"","location":"-4.038333,21.758664"},{"2022":{"cases":192,"deaths":0},"2023":{"cases":6,"deaths":0},"2024":{"cases":5,"deaths":0},"country":"Denmark","countryCode":"DK","cases":"203","deaths":"0","location":"56.26392,9.501785"},{"2022":{"cases":52,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Dominican Republic","countryCode":"DO","cases":"52","deaths":"0","location":"18.735693,-70.162651"},{"2022":{"cases":461,"deaths":3},"2023":{"cases":263,"deaths":0},"2024":{"cases":4,"deaths":0},"country":"Ecuador","countryCode":"EC","cases":"728","deaths":"3","location":"-1.831239,-78.183406"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Egypt","countryCode":"EG","cases":"3","deaths":"0","location":"26.820553,30.802498"},{"2022":{"cases":69,"deaths":0},"2023":{"cases":35,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"El Salvador","countryCode":"SV","cases":"104","deaths":"0","location":"13.794185,-88.89653"},{"2022":{"cases":11,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Estonia","countryCode":"EE","cases":"11","deaths":"0","location":"58.595272,25.013607"},{"2022":{"cases":42,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":1,"deaths":0},"country":"Finland","countryCode":"FI","cases":"43","deaths":"0","location":"61.92411,25.748151"},{"2022":{"cases":4114,"deaths":0},"2023":{"cases":57,"deaths":0},"2024":{"cases":112,"deaths":0},"country":"France","countryCode":"FR","cases":"4283","deaths":"0","location":"46.227638,2.213749"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Georgia","countryCode":"GE","cases":"2","deaths":"0","location":"42.315407,43.356892"},{"2022":{"cases":3676,"deaths":0},"2023":{"cases":124,"deaths":0},"2024":{"cases":86,"deaths":0},"country":"Germany","countryCode":"DE","cases":"3886","deaths":"0","location":"51.165691,10.451526"},{"2022":{"cases":119,"deaths":4},"2023":{"cases":6,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Ghana","countryCode":"GH","cases":"127","deaths":"4","location":"7.946527,-1.023194"},{"2022":{"cases":6,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Gibraltar","countryCode":"GI","cases":"6","deaths":"0","location":"36.137741,-5.345374"},{"2022":{"cases":85,"deaths":0},"2023":{"cases":4,"deaths":0},"2024":{"cases":10,"deaths":0},"country":"Greece","countryCode":"GR","cases":"99","deaths":"0","location":"39.074208,21.824312"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Greenland","countryCode":"GL","cases":"2","deaths":"0","location":"71.706936,-42.604303"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Guadeloupe","countryCode":"GP","cases":"1","deaths":"0","location":"16.995971,-62.067641"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Guam","countryCode":"GU","cases":"1","deaths":"0","location":"13.444304,144.793731"},{"2022":{"cases":259,"deaths":0},"2023":{"cases":146,"deaths":1},"2024":{"cases":0,"deaths":0},"country":"Guatemala","countryCode":"GT","cases":"405","deaths":"1","location":"15.783471,-90.230759"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Guyana","countryCode":"GY","cases":"2","deaths":"0","location":"4.860416,-58.93018"},{"2022":{"cases":11,"deaths":0},"2023":{"cases":33,"deaths":1},"2024":{"cases":0,"deaths":0},"country":"Honduras","countryCode":"HN","cases":"44","deaths":"1","location":"15.199999,-86.241905"},{"2022":{"cases":80,"deaths":0},"2023":{"cases":2,"deaths":0},"2024":{"cases":3,"deaths":0},"country":"Hungary","countryCode":"HU","cases":"85","deaths":"0","location":"47.162494,19.503304"},{"2022":{"cases":16,"deaths":0},"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Iceland","countryCode":"IS","cases":"17","deaths":"0","location":"64.963051,-19.020835"},{"2022":{"cases":20,"deaths":1},"2023":{"cases":7,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"India","countryCode":"IN","cases":"27","deaths":"1","location":"20.593684,78.96288"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":72,"deaths":0},"2024":{"cases":15,"deaths":0},"country":"Indonesia","countryCode":"ID","cases":"88","deaths":"0","location":"-0.789275,113.921327"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Iran","countryCode":"IR","cases":"1","deaths":"0","location":"32.427908,53.688046"},{"2022":{"cases":225,"deaths":0},"2023":{"cases":19,"deaths":0},"2024":{"cases":5,"deaths":0},"country":"Ireland","countryCode":"IE","cases":"249","deaths":"0","location":"53.41291,-8.24389"},{"2022":{"cases":262,"deaths":0},"2023":{"cases":13,"deaths":0},"2024":{"cases":42,"deaths":0},"country":"Israel","countryCode":"IL","cases":"317","deaths":"0","location":"31.046051,34.851612"},{"2022":{"cases":938,"deaths":0},"2023":{"cases":51,"deaths":0},"2024":{"cases":67,"deaths":0},"country":"Italy","countryCode":"IT","cases":"1056","deaths":"0","location":"41.87194,12.56738"},{"2022":{"cases":18,"deaths":0},"2023":{"cases":3,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Jamaica","countryCode":"JM","cases":"21","deaths":"0","location":"18.109581,-77.297508"},{"2022":{"cases":8,"deaths":0},"2023":{"cases":224,"deaths":1},"2024":{"cases":16,"deaths":0},"country":"Japan","countryCode":"JP","cases":"248","deaths":"1","location":"36.204824,138.252924"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Jordan","countryCode":"JO","cases":"1","deaths":"0","location":"30.585164,36.238414"},{"2024":{"cases":1,"deaths":0},"country":"Kenya","countryCode":"KE","cases":"1","deaths":"0","location":"-0.023559,37.906193"},{"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Laos","countryCode":"LA","cases":"1","deaths":"0","location":"19.85627,102.495496"},{"2022":{"cases":6,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Latvia","countryCode":"LV","cases":"6","deaths":"0","location":"56.879635,24.603189"},{"2022":{"cases":24,"deaths":0},"2023":{"cases":3,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Lebanon","countryCode":"LB","cases":"27","deaths":"0","location":"33.854721,35.862285"},{"2022":{"cases":6,"deaths":0},"2023":{"cases":12,"deaths":0},"2024":{"cases":5,"deaths":0},"country":"Liberia","countryCode":"LR","cases":"23","deaths":"0","location":"6.428055,-9.429499"},{"2022":{"cases":5,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Lithuania","countryCode":"LT","cases":"5","deaths":"0","location":"55.169438,23.881275"},{"2022":{"cases":57,"deaths":0},"2023":{"cases":3,"deaths":0},"2024":{"cases":1,"deaths":0},"country":"Luxembourg","countryCode":"LU","cases":"61","deaths":"0","location":"49.815273,6.129583"},{"2023":{"cases":9,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Malaysia","countryCode":"MY","cases":"9","deaths":"0","location":"4.210484,101.975766"},{"2022":{"cases":33,"deaths":0},"2023":{"cases":2,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Malta","countryCode":"MT","cases":"35","deaths":"0","location":"35.937496,14.375416"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":6,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Martinique","countryCode":"MQ","cases":"7","deaths":"0","location":"14.641528,-61.024174"},{"2022":{"cases":3773,"deaths":25},"2023":{"cases":306,"deaths":9},"2024":{"cases":53,"deaths":0},"country":"Mexico","countryCode":"MX","cases":"4132","deaths":"34","location":"23.634501,-102.552784"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Moldova","countryCode":"MD","cases":"2","deaths":"0","location":"47.411631,28.369885"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Monaco","countryCode":"MC","cases":"3","deaths":"0","location":"43.750298,7.412841"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Montenegro","countryCode":"ME","cases":"2","deaths":"0","location":"42.708678,19.37439"},{"2022":{"cases":3,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Morocco","countryCode":"MA","cases":"3","deaths":"0","location":"31.791702,-7.09262"},{"2022":{"cases":1,"deaths":1},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Mozambique","countryCode":"MZ","cases":"1","deaths":"1","location":"-18.665695,35.529562"},{"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Nepal","countryCode":"NP","cases":"1","deaths":"0","location":"28.394857,84.124008"},{"2022":{"cases":1256,"deaths":0},"2023":{"cases":31,"deaths":0},"2024":{"cases":21,"deaths":0},"country":"Netherlands","countryCode":"NL","cases":"1308","deaths":"0","location":"52.132633,5.291266"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"New Caledonia","countryCode":"NC","cases":"1","deaths":"0","location":"-20.904305,165.618042"},{"2022":{"cases":40,"deaths":0},"2023":{"cases":2,"deaths":0},"2024":{"cases":11,"deaths":0},"country":"New Zealand","countryCode":"NZ","cases":"53","deaths":"0","location":"-40.900557,174.885971"},{"2022":{"cases":742,"deaths":6},"2023":{"cases":105,"deaths":2},"2024":{"cases":40,"deaths":0},"country":"Nigeria","countryCode":"NG","cases":"901","deaths":"9","location":"9.081999,8.675277"},{"2022":{"cases":35849,"deaths":78},"2023":{"cases":2635,"deaths":20},"2024":{"cases":1947,"deaths":1},"country":"North America","countryCode":"US","cases":"40434","deaths":"99","location":"37.09024,-95.712891"},{"2022":{"cases":93,"deaths":0},"2023":{"cases":11,"deaths":0},"2024":{"cases":3,"deaths":0},"country":"Norway","countryCode":"NO","cases":"107","deaths":"0","location":"60.472024,8.468946"},{"2023":{"cases":3,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Oman","countryCode":"OM","cases":"3","deaths":"0","location":"21.512583,55.923255"},{"2023":{"cases":7,"deaths":0},"2024":{"cases":4,"deaths":1},"country":"Pakistan","countryCode":"PK","cases":"11","deaths":"1","location":"30.375321,69.345116"},{"2022":{"cases":92,"deaths":0},"2023":{"cases":151,"deaths":1},"2024":{"cases":2,"deaths":0},"country":"Panama","countryCode":"PA","cases":"245","deaths":"1","location":"8.537981,-80.782127"},{"2022":{"cases":48,"deaths":0},"2023":{"cases":78,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Paraguay","countryCode":"PY","cases":"126","deaths":"0","location":"-23.442503,-58.443832"},{"2022":{"cases":3698,"deaths":8},"2023":{"cases":164,"deaths":13},"2024":{"cases":77,"deaths":0},"country":"Peru","countryCode":"PE","cases":"3939","deaths":"21","location":"-9.189967,-75.015152"},{"2022":{"cases":4,"deaths":0},"2023":{"cases":5,"deaths":0},"2024":{"cases":1,"deaths":0},"country":"Philippines","countryCode":"PH","cases":"10","deaths":"0","location":"12.879721,121.774017"},{"2022":{"cases":214,"deaths":0},"2023":{"cases":3,"deaths":0},"2024":{"cases":6,"deaths":0},"country":"Poland","countryCode":"PL","cases":"223","deaths":"0","location":"51.919438,19.145136"},{"2022":{"cases":948,"deaths":0},"2023":{"cases":214,"deaths":1},"2024":{"cases":34,"deaths":2},"country":"Portugal","countryCode":"PT","cases":"1196","deaths":"3","location":"39.399872,-8.224454"},{"2022":{"cases":5,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Qatar","countryCode":"QA","cases":"5","deaths":"0","location":"25.354826,51.183884"},{"2022":{"cases":46,"deaths":0},"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Romania","countryCode":"RO","cases":"47","deaths":"0","location":"45.943161,24.96676"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":2,"deaths":0},"country":"Russia","countryCode":"RU","cases":"4","deaths":"0","location":"61.52401,105.318756"},{"2024":{"cases":4,"deaths":0},"country":"Rwanda","countryCode":"RW","cases":"4","deaths":"0","location":"-1.940278,29.873888"},{"2022":{"cases":1,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"San Marino","countryCode":"SM","cases":"1","deaths":"0","location":"43.94236,12.457777"},{"2022":{"cases":8,"deaths":0},"2023":{"cases":661,"deaths":0},"2024":{"cases":95,"deaths":0},"country":"Saudi Arabia","countryCode":"SA","cases":"764","deaths":"0","location":"23.885942,45.079162"},{"2022":{"cases":40,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Serbia","countryCode":"RS","cases":"40","deaths":"0","location":"44.016521,21.005859"},{"2022":{"cases":19,"deaths":0},"2023":{"cases":31,"deaths":0},"2024":{"cases":13,"deaths":0},"country":"Singapore","countryCode":"SG","cases":"63","deaths":"0","location":"1.352083,103.819836"},{"2022":{"cases":14,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":2,"deaths":0},"country":"Slovakia","countryCode":"SK","cases":"16","deaths":"0","location":"48.669026,19.699024"},{"2022":{"cases":47,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Slovenia","countryCode":"SI","cases":"47","deaths":"0","location":"46.151241,14.995463"},{"2022":{"cases":5,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":24,"deaths":3},"country":"South Africa","countryCode":"ZA","cases":"29","deaths":"3","location":"-30.559482,22.937506"},{"2022":{"cases":21272,"deaths":30},"2023":{"cases":1627,"deaths":15},"2024":{"cases":910,"deaths":0},"country":"South America","countryCode":"SA","cases":"23809","deaths":"45","location":"23.885942,45.079162"},{"2022":{"cases":4,"deaths":0},"2023":{"cases":151,"deaths":0},"2024":{"cases":10,"deaths":0},"country":"South Korea","countryCode":"KR","cases":"165","deaths":"0","location":"35.907757,127.766922"},{"2022":{"cases":7496,"deaths":3},"2023":{"cases":256,"deaths":0},"2024":{"cases":352,"deaths":0},"country":"Spain","countryCode":"ES","cases":"8104","deaths":"3","location":"40.463667,-3.74922"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":2,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Sri Lanka","countryCode":"LK","cases":"4","deaths":"0","location":"7.873054,80.771797"},{"2022":{"cases":18,"deaths":1},"2023":{"cases":1,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Sudan","countryCode":"SD","cases":"19","deaths":"1","location":"12.862807,30.217636"},{"2022":{"cases":250,"deaths":0},"2023":{"cases":17,"deaths":0},"2024":{"cases":33,"deaths":0},"country":"Sweden","countryCode":"SE","cases":"300","deaths":"0","location":"60.128161,18.643501"},{"2022":{"cases":551,"deaths":0},"2023":{"cases":12,"deaths":0},"2024":{"cases":16,"deaths":0},"country":"Switzerland","countryCode":"CH","cases":"579","deaths":"0","location":"46.818188,8.227512"},{"2022":{"cases":12,"deaths":0},"2023":{"cases":673,"deaths":1},"2024":{"cases":135,"deaths":9},"country":"Thailand","countryCode":"TH","cases":"820","deaths":"10","location":"15.870032,100.992541"},{"2023":{"cases":4,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Trinidad and Tobago","countryCode":"TT","cases":"4","deaths":"0","location":"10.691803,-61.222503"},{"2022":{"cases":12,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Turkey","countryCode":"TR","cases":"12","deaths":"0","location":"38.963745,35.243322"},{"2024":{"cases":4,"deaths":0},"country":"Uganda","countryCode":"UG","cases":"4","deaths":"0","location":"1.373333,32.290275"},{"2022":{"cases":5,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Ukraine","countryCode":"UA","cases":"5","deaths":"0","location":"48.379433,31.16558"},{"2022":{"cases":16,"deaths":0},"2023":{"cases":9,"deaths":0},"2024":{"cases":3,"deaths":0},"country":"United Arab Emirates","countryCode":"AE","cases":"28","deaths":"0","location":"23.424076,53.847818"},{"2022":{"cases":3730,"deaths":0},"2023":{"cases":145,"deaths":0},"2024":{"cases":143,"deaths":0},"country":"United Kingdom","countryCode":"GB","cases":"4018","deaths":"0","location":"55.378051,-3.435973"},{"2022":{"cases":30084,"deaths":52},"2023":{"cases":1724,"deaths":7},"2024":{"cases":1781,"deaths":1},"country":"United States","countryCode":"US","cases":"33590","deaths":"60","location":"37.09024,-95.712891"},{"2022":{"cases":19,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Uruguay","countryCode":"UY","cases":"19","deaths":"0","location":"-32.522779,-55.765835"},{"2022":{"cases":12,"deaths":0},"2023":{"cases":0,"deaths":0},"2024":{"cases":0,"deaths":0},"country":"Venezuela","countryCode":"VE","cases":"12","deaths":"0","location":"6.42375,-66.58973"},{"2022":{"cases":2,"deaths":0},"2023":{"cases":119,"deaths":6},"2024":{"cases":81,"deaths":2},"country":"Vietnam","countryCode":"VN","cases":"202","deaths":"8","location":"14.058324,108.277199"},{"country":"","countryCode":"MN","location":"46.862496,103.846656"}]
+[
+    {
+        "2022": {
+            "cases": 1208,
+            "deaths": 14
+        },
+        "2023": {
+            "cases": 1155,
+            "deaths": 7
+        },
+        "2024": {
+            "cases": 3535,
+            "deaths": 25
+        },
+        "country": "Africa",
+        "countryCode": "AF",
+        "cases": "5938",
+        "deaths": "48",
+        "location": "33.93911,67.709953"
+    },
+    {
+        "2022": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Andorra",
+        "countryCode": "AD",
+        "cases": "4",
+        "deaths": "0",
+        "location": "42.546245,1.601554"
+    },
+    {
+        "2022": {
+            "cases": 1018,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 118,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 18,
+            "deaths": 0
+        },
+        "country": "Argentina",
+        "countryCode": "AR",
+        "cases": "1154",
+        "deaths": "2",
+        "location": "-38.416097,-63.616672"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Aruba",
+        "countryCode": "AW",
+        "cases": "3",
+        "deaths": "0",
+        "location": "12.52111,-69.968338"
+    },
+    {
+        "2022": {
+            "cases": 410,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 4114,
+            "deaths": 9
+        },
+        "2024": {
+            "cases": 841,
+            "deaths": 12
+        },
+        "country": "Asia",
+        "countryCode": "AS",
+        "cases": "5365",
+        "deaths": "22",
+        "location": "-14.270972,-170.132217"
+    },
+    {
+        "2022": {
+            "cases": 144,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 26,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 283,
+            "deaths": 0
+        },
+        "country": "Australia",
+        "countryCode": "AU",
+        "cases": "453",
+        "deaths": "0",
+        "location": "-25.274398,133.775136"
+    },
+    {
+        "2022": {
+            "cases": 327,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 10,
+            "deaths": 1
+        },
+        "country": "Austria",
+        "countryCode": "AT",
+        "cases": "348",
+        "deaths": "1",
+        "location": "47.516231,14.550072"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "cases": "3",
+        "deaths": "0",
+        "location": "25.03428,-77.39628"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Bahrain",
+        "countryCode": "BH",
+        "cases": "2",
+        "deaths": "0",
+        "location": "25.930414,50.637772"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Barbados",
+        "countryCode": "BB",
+        "cases": "1",
+        "deaths": "0",
+        "location": "13.193887,-59.543198"
+    },
+    {
+        "2022": {
+            "cases": 790,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 10,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "country": "Belgium",
+        "countryCode": "BE",
+        "cases": "811",
+        "deaths": "2",
+        "location": "50.503887,4.469936"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Benin",
+        "countryCode": "BJ",
+        "cases": "3",
+        "deaths": "0",
+        "location": "9.30769,2.315834"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Bermuda",
+        "countryCode": "BM",
+        "cases": "1",
+        "deaths": "0",
+        "location": "32.321384,-64.75737"
+    },
+    {
+        "2022": {
+            "cases": 261,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Bolivia",
+        "countryCode": "BO",
+        "cases": "265",
+        "deaths": "0",
+        "location": "-16.290154,-63.588653"
+    },
+    {
+        "2022": {
+            "cases": 9,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "cases": "9",
+        "deaths": "0",
+        "location": "43.915886,17.679076"
+    },
+    {
+        "2022": {
+            "cases": 10317,
+            "deaths": 15
+        },
+        "2023": {
+            "cases": 839,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 702,
+            "deaths": 0
+        },
+        "country": "Brazil",
+        "countryCode": "BR",
+        "cases": "11858",
+        "deaths": "15",
+        "location": "-14.235004,-51.92528"
+    },
+    {
+        "2022": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "cases": "7",
+        "deaths": "0",
+        "location": "42.733883,25.48583"
+    },
+    {
+        "2024": {
+            "cases": 170,
+            "deaths": 0
+        },
+        "country": "Burundi",
+        "countryCode": "BI",
+        "cases": "170",
+        "deaths": "0",
+        "location": "-3.373056,29.918886"
+    },
+    {
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "cases": "13",
+        "deaths": "0",
+        "location": "12.565679,104.990963"
+    },
+    {
+        "2022": {
+            "cases": 15,
+            "deaths": 2
+        },
+        "2023": {
+            "cases": 27,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 5,
+            "deaths": 2
+        },
+        "country": "Cameroon",
+        "countryCode": "CM",
+        "cases": "50",
+        "deaths": "5",
+        "location": "7.369722,12.354722"
+    },
+    {
+        "2022": {
+            "cases": 1399,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 69,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 111,
+            "deaths": 0
+        },
+        "country": "Canada",
+        "countryCode": "CA",
+        "cases": "1581",
+        "deaths": "0",
+        "location": "56.130366,-106.346771"
+    },
+    {
+        "2022": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 17,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 45,
+            "deaths": 1
+        },
+        "country": "Central African Republic",
+        "countryCode": "CF",
+        "cases": "92",
+        "deaths": "2",
+        "location": "6.611111,20.939444"
+    },
+    {
+        "2022": {
+            "cases": 1377,
+            "deaths": 3
+        },
+        "2023": {
+            "cases": 72,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Chile",
+        "countryCode": "CL",
+        "cases": "1449",
+        "deaths": "4",
+        "location": "-35.675147,-71.542969"
+    },
+    {
+        "2022": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2121,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 414,
+            "deaths": 0
+        },
+        "country": "China",
+        "countryCode": "CN",
+        "cases": "2541",
+        "deaths": "1",
+        "location": "35.86166,104.195397"
+    },
+    {
+        "2022": {
+            "cases": 4059,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 89,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 109,
+            "deaths": 0
+        },
+        "country": "Colombia",
+        "countryCode": "CO",
+        "cases": "4257",
+        "deaths": "0",
+        "location": "4.570868,-74.297333"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 21,
+            "deaths": 2
+        },
+        "2024": {
+            "cases": 19,
+            "deaths": 0
+        },
+        "country": "Congo",
+        "countryCode": "CG",
+        "cases": "45",
+        "deaths": "2",
+        "location": "-0.228021,15.827659"
+    },
+    {
+        "2022": {
+            "cases": 70,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 156,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Costa Rica",
+        "countryCode": "CR",
+        "cases": "226",
+        "deaths": "1",
+        "location": "9.748917,-83.753428"
+    },
+    {
+        "2022": {
+            "cases": 29,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Croatia",
+        "countryCode": "HR",
+        "cases": "34",
+        "deaths": "0",
+        "location": "45.1,15.2"
+    },
+    {
+        "2022": {
+            "cases": 8,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Cuba",
+        "countryCode": "CU",
+        "cases": "8",
+        "deaths": "1",
+        "location": "21.521757,-77.781167"
+    },
+    {
+        "2022": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "cases": "5",
+        "deaths": "0",
+        "location": "35.126413,33.429859"
+    },
+    {
+        "2022": {
+            "cases": 71,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "cases": "82",
+        "deaths": "1",
+        "location": "49.817492,15.472962"
+    },
+    {
+        "2022": {
+            "cases": 279,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 966,
+            "deaths": 2
+        },
+        "2024": {
+            "cases": 3235,
+            "deaths": 19
+        },
+        "country": "Democratic Republic of Congo",
+        "countryCode": "CD",
+        "cases": "",
+        "deaths": "",
+        "location": "-4.038333,21.758664"
+    },
+    {
+        "2022": {
+            "cases": 192,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "country": "Denmark",
+        "countryCode": "DK",
+        "cases": "203",
+        "deaths": "0",
+        "location": "56.26392,9.501785"
+    },
+    {
+        "2022": {
+            "cases": 52,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "cases": "52",
+        "deaths": "0",
+        "location": "18.735693,-70.162651"
+    },
+    {
+        "2022": {
+            "cases": 461,
+            "deaths": 3
+        },
+        "2023": {
+            "cases": 263,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "country": "Ecuador",
+        "countryCode": "EC",
+        "cases": "728",
+        "deaths": "3",
+        "location": "-1.831239,-78.183406"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Egypt",
+        "countryCode": "EG",
+        "cases": "3",
+        "deaths": "0",
+        "location": "26.820553,30.802498"
+    },
+    {
+        "2022": {
+            "cases": 69,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 35,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "El Salvador",
+        "countryCode": "SV",
+        "cases": "104",
+        "deaths": "0",
+        "location": "13.794185,-88.89653"
+    },
+    {
+        "2022": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Estonia",
+        "countryCode": "EE",
+        "cases": "11",
+        "deaths": "0",
+        "location": "58.595272,25.013607"
+    },
+    {
+        "2022": {
+            "cases": 42,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Finland",
+        "countryCode": "FI",
+        "cases": "43",
+        "deaths": "0",
+        "location": "61.92411,25.748151"
+    },
+    {
+        "2022": {
+            "cases": 4114,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 57,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 112,
+            "deaths": 0
+        },
+        "country": "France",
+        "countryCode": "FR",
+        "cases": "4283",
+        "deaths": "0",
+        "location": "46.227638,2.213749"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Georgia",
+        "countryCode": "GE",
+        "cases": "2",
+        "deaths": "0",
+        "location": "42.315407,43.356892"
+    },
+    {
+        "2022": {
+            "cases": 3676,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 124,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 86,
+            "deaths": 0
+        },
+        "country": "Germany",
+        "countryCode": "DE",
+        "cases": "3886",
+        "deaths": "0",
+        "location": "51.165691,10.451526"
+    },
+    {
+        "2022": {
+            "cases": 119,
+            "deaths": 4
+        },
+        "2023": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Ghana",
+        "countryCode": "GH",
+        "cases": "127",
+        "deaths": "4",
+        "location": "7.946527,-1.023194"
+    },
+    {
+        "2022": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Gibraltar",
+        "countryCode": "GI",
+        "cases": "6",
+        "deaths": "0",
+        "location": "36.137741,-5.345374"
+    },
+    {
+        "2022": {
+            "cases": 85,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 10,
+            "deaths": 0
+        },
+        "country": "Greece",
+        "countryCode": "GR",
+        "cases": "99",
+        "deaths": "0",
+        "location": "39.074208,21.824312"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Greenland",
+        "countryCode": "GL",
+        "cases": "2",
+        "deaths": "0",
+        "location": "71.706936,-42.604303"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Guadeloupe",
+        "countryCode": "GP",
+        "cases": "1",
+        "deaths": "0",
+        "location": "16.995971,-62.067641"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Guam",
+        "countryCode": "GU",
+        "cases": "1",
+        "deaths": "0",
+        "location": "13.444304,144.793731"
+    },
+    {
+        "2022": {
+            "cases": 259,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 146,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "cases": "405",
+        "deaths": "1",
+        "location": "15.783471,-90.230759"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Guyana",
+        "countryCode": "GY",
+        "cases": "2",
+        "deaths": "0",
+        "location": "4.860416,-58.93018"
+    },
+    {
+        "2022": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 33,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Honduras",
+        "countryCode": "HN",
+        "cases": "44",
+        "deaths": "1",
+        "location": "15.199999,-86.241905"
+    },
+    {
+        "2022": {
+            "cases": 80,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "country": "Hungary",
+        "countryCode": "HU",
+        "cases": "85",
+        "deaths": "0",
+        "location": "47.162494,19.503304"
+    },
+    {
+        "2022": {
+            "cases": 16,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Iceland",
+        "countryCode": "IS",
+        "cases": "17",
+        "deaths": "0",
+        "location": "64.963051,-19.020835"
+    },
+    {
+        "2022": {
+            "cases": 20,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 7,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "India",
+        "countryCode": "IN",
+        "cases": "27",
+        "deaths": "1",
+        "location": "20.593684,78.96288"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 72,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 15,
+            "deaths": 0
+        },
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "cases": "88",
+        "deaths": "0",
+        "location": "-0.789275,113.921327"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Iran",
+        "countryCode": "IR",
+        "cases": "1",
+        "deaths": "0",
+        "location": "32.427908,53.688046"
+    },
+    {
+        "2022": {
+            "cases": 225,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 19,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "country": "Ireland",
+        "countryCode": "IE",
+        "cases": "249",
+        "deaths": "0",
+        "location": "53.41291,-8.24389"
+    },
+    {
+        "2022": {
+            "cases": 262,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 13,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 42,
+            "deaths": 0
+        },
+        "country": "Israel",
+        "countryCode": "IL",
+        "cases": "317",
+        "deaths": "0",
+        "location": "31.046051,34.851612"
+    },
+    {
+        "2022": {
+            "cases": 938,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 51,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 67,
+            "deaths": 0
+        },
+        "country": "Italy",
+        "countryCode": "IT",
+        "cases": "1056",
+        "deaths": "0",
+        "location": "41.87194,12.56738"
+    },
+    {
+        "2022": {
+            "cases": 18,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Jamaica",
+        "countryCode": "JM",
+        "cases": "21",
+        "deaths": "0",
+        "location": "18.109581,-77.297508"
+    },
+    {
+        "2022": {
+            "cases": 8,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 224,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 16,
+            "deaths": 0
+        },
+        "country": "Japan",
+        "countryCode": "JP",
+        "cases": "248",
+        "deaths": "1",
+        "location": "36.204824,138.252924"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Jordan",
+        "countryCode": "JO",
+        "cases": "1",
+        "deaths": "0",
+        "location": "30.585164,36.238414"
+    },
+    {
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Kenya",
+        "countryCode": "KE",
+        "cases": "1",
+        "deaths": "0",
+        "location": "-0.023559,37.906193"
+    },
+    {
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Laos",
+        "countryCode": "LA",
+        "cases": "1",
+        "deaths": "0",
+        "location": "19.85627,102.495496"
+    },
+    {
+        "2022": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Latvia",
+        "countryCode": "LV",
+        "cases": "6",
+        "deaths": "0",
+        "location": "56.879635,24.603189"
+    },
+    {
+        "2022": {
+            "cases": 24,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Lebanon",
+        "countryCode": "LB",
+        "cases": "27",
+        "deaths": "0",
+        "location": "33.854721,35.862285"
+    },
+    {
+        "2022": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "country": "Liberia",
+        "countryCode": "LR",
+        "cases": "23",
+        "deaths": "0",
+        "location": "6.428055,-9.429499"
+    },
+    {
+        "2022": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Lithuania",
+        "countryCode": "LT",
+        "cases": "5",
+        "deaths": "0",
+        "location": "55.169438,23.881275"
+    },
+    {
+        "2022": {
+            "cases": 57,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Luxembourg",
+        "countryCode": "LU",
+        "cases": "61",
+        "deaths": "0",
+        "location": "49.815273,6.129583"
+    },
+    {
+        "2023": {
+            "cases": 9,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "cases": "9",
+        "deaths": "0",
+        "location": "4.210484,101.975766"
+    },
+    {
+        "2022": {
+            "cases": 33,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Malta",
+        "countryCode": "MT",
+        "cases": "35",
+        "deaths": "0",
+        "location": "35.937496,14.375416"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Martinique",
+        "countryCode": "MQ",
+        "cases": "7",
+        "deaths": "0",
+        "location": "14.641528,-61.024174"
+    },
+    {
+        "2022": {
+            "cases": 3773,
+            "deaths": 25
+        },
+        "2023": {
+            "cases": 306,
+            "deaths": 9
+        },
+        "2024": {
+            "cases": 53,
+            "deaths": 0
+        },
+        "country": "Mexico",
+        "countryCode": "MX",
+        "cases": "4132",
+        "deaths": "34",
+        "location": "23.634501,-102.552784"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Moldova",
+        "countryCode": "MD",
+        "cases": "2",
+        "deaths": "0",
+        "location": "47.411631,28.369885"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Monaco",
+        "countryCode": "MC",
+        "cases": "3",
+        "deaths": "0",
+        "location": "43.750298,7.412841"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Montenegro",
+        "countryCode": "ME",
+        "cases": "2",
+        "deaths": "0",
+        "location": "42.708678,19.37439"
+    },
+    {
+        "2022": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Morocco",
+        "countryCode": "MA",
+        "cases": "3",
+        "deaths": "0",
+        "location": "31.791702,-7.09262"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Mozambique",
+        "countryCode": "MZ",
+        "cases": "1",
+        "deaths": "1",
+        "location": "-18.665695,35.529562"
+    },
+    {
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Nepal",
+        "countryCode": "NP",
+        "cases": "1",
+        "deaths": "0",
+        "location": "28.394857,84.124008"
+    },
+    {
+        "2022": {
+            "cases": 1256,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 31,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 21,
+            "deaths": 0
+        },
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "cases": "1308",
+        "deaths": "0",
+        "location": "52.132633,5.291266"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "New Caledonia",
+        "countryCode": "NC",
+        "cases": "1",
+        "deaths": "0",
+        "location": "-20.904305,165.618042"
+    },
+    {
+        "2022": {
+            "cases": 40,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "cases": "53",
+        "deaths": "0",
+        "location": "-40.900557,174.885971"
+    },
+    {
+        "2022": {
+            "cases": 742,
+            "deaths": 6
+        },
+        "2023": {
+            "cases": 105,
+            "deaths": 2
+        },
+        "2024": {
+            "cases": 40,
+            "deaths": 0
+        },
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "cases": "901",
+        "deaths": "9",
+        "location": "9.081999,8.675277"
+    },
+    {
+        "2022": {
+            "cases": 35849,
+            "deaths": 78
+        },
+        "2023": {
+            "cases": 2635,
+            "deaths": 20
+        },
+        "2024": {
+            "cases": 1947,
+            "deaths": 1
+        },
+        "country": "North America",
+        "countryCode": "US",
+        "cases": "40434",
+        "deaths": "99",
+        "location": "37.09024,-95.712891"
+    },
+    {
+        "2022": {
+            "cases": 93,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 11,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "country": "Norway",
+        "countryCode": "NO",
+        "cases": "107",
+        "deaths": "0",
+        "location": "60.472024,8.468946"
+    },
+    {
+        "2023": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Oman",
+        "countryCode": "OM",
+        "cases": "3",
+        "deaths": "0",
+        "location": "21.512583,55.923255"
+    },
+    {
+        "2023": {
+            "cases": 7,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 4,
+            "deaths": 1
+        },
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "cases": "11",
+        "deaths": "1",
+        "location": "30.375321,69.345116"
+    },
+    {
+        "2022": {
+            "cases": 92,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 151,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "country": "Panama",
+        "countryCode": "PA",
+        "cases": "245",
+        "deaths": "1",
+        "location": "8.537981,-80.782127"
+    },
+    {
+        "2022": {
+            "cases": 48,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 78,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Paraguay",
+        "countryCode": "PY",
+        "cases": "126",
+        "deaths": "0",
+        "location": "-23.442503,-58.443832"
+    },
+    {
+        "2022": {
+            "cases": 3698,
+            "deaths": 8
+        },
+        "2023": {
+            "cases": 164,
+            "deaths": 13
+        },
+        "2024": {
+            "cases": 77,
+            "deaths": 0
+        },
+        "country": "Peru",
+        "countryCode": "PE",
+        "cases": "3939",
+        "deaths": "21",
+        "location": "-9.189967,-75.015152"
+    },
+    {
+        "2022": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "country": "Philippines",
+        "countryCode": "PH",
+        "cases": "10",
+        "deaths": "0",
+        "location": "12.879721,121.774017"
+    },
+    {
+        "2022": {
+            "cases": 214,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 6,
+            "deaths": 0
+        },
+        "country": "Poland",
+        "countryCode": "PL",
+        "cases": "223",
+        "deaths": "0",
+        "location": "51.919438,19.145136"
+    },
+    {
+        "2022": {
+            "cases": 948,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 214,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 34,
+            "deaths": 2
+        },
+        "country": "Portugal",
+        "countryCode": "PT",
+        "cases": "1196",
+        "deaths": "3",
+        "location": "39.399872,-8.224454"
+    },
+    {
+        "2022": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Qatar",
+        "countryCode": "QA",
+        "cases": "5",
+        "deaths": "0",
+        "location": "25.354826,51.183884"
+    },
+    {
+        "2022": {
+            "cases": 46,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Romania",
+        "countryCode": "RO",
+        "cases": "47",
+        "deaths": "0",
+        "location": "45.943161,24.96676"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "country": "Russia",
+        "countryCode": "RU",
+        "cases": "4",
+        "deaths": "0",
+        "location": "61.52401,105.318756"
+    },
+    {
+        "2024": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "country": "Rwanda",
+        "countryCode": "RW",
+        "cases": "4",
+        "deaths": "0",
+        "location": "-1.940278,29.873888"
+    },
+    {
+        "2022": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "San Marino",
+        "countryCode": "SM",
+        "cases": "1",
+        "deaths": "0",
+        "location": "43.94236,12.457777"
+    },
+    {
+        "2022": {
+            "cases": 8,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 661,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 95,
+            "deaths": 0
+        },
+        "country": "Saudi Arabia",
+        "countryCode": "SA",
+        "cases": "764",
+        "deaths": "0",
+        "location": "23.885942,45.079162"
+    },
+    {
+        "2022": {
+            "cases": 40,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Serbia",
+        "countryCode": "RS",
+        "cases": "40",
+        "deaths": "0",
+        "location": "44.016521,21.005859"
+    },
+    {
+        "2022": {
+            "cases": 19,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 31,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 13,
+            "deaths": 0
+        },
+        "country": "Singapore",
+        "countryCode": "SG",
+        "cases": "63",
+        "deaths": "0",
+        "location": "1.352083,103.819836"
+    },
+    {
+        "2022": {
+            "cases": 14,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "country": "Slovakia",
+        "countryCode": "SK",
+        "cases": "16",
+        "deaths": "0",
+        "location": "48.669026,19.699024"
+    },
+    {
+        "2022": {
+            "cases": 47,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Slovenia",
+        "countryCode": "SI",
+        "cases": "47",
+        "deaths": "0",
+        "location": "46.151241,14.995463"
+    },
+    {
+        "2022": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 24,
+            "deaths": 3
+        },
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "cases": "29",
+        "deaths": "3",
+        "location": "-30.559482,22.937506"
+    },
+    {
+        "2022": {
+            "cases": 21272,
+            "deaths": 30
+        },
+        "2023": {
+            "cases": 1627,
+            "deaths": 15
+        },
+        "2024": {
+            "cases": 910,
+            "deaths": 0
+        },
+        "country": "South America",
+        "countryCode": "SA",
+        "cases": "23809",
+        "deaths": "45",
+        "location": "23.885942,45.079162"
+    },
+    {
+        "2022": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 151,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 10,
+            "deaths": 0
+        },
+        "country": "South Korea",
+        "countryCode": "KR",
+        "cases": "165",
+        "deaths": "0",
+        "location": "35.907757,127.766922"
+    },
+    {
+        "2022": {
+            "cases": 7496,
+            "deaths": 3
+        },
+        "2023": {
+            "cases": 256,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 352,
+            "deaths": 0
+        },
+        "country": "Spain",
+        "countryCode": "ES",
+        "cases": "8104",
+        "deaths": "3",
+        "location": "40.463667,-3.74922"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Sri Lanka",
+        "countryCode": "LK",
+        "cases": "4",
+        "deaths": "0",
+        "location": "7.873054,80.771797"
+    },
+    {
+        "2022": {
+            "cases": 18,
+            "deaths": 1
+        },
+        "2023": {
+            "cases": 1,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Sudan",
+        "countryCode": "SD",
+        "cases": "19",
+        "deaths": "1",
+        "location": "12.862807,30.217636"
+    },
+    {
+        "2022": {
+            "cases": 250,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 17,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 33,
+            "deaths": 0
+        },
+        "country": "Sweden",
+        "countryCode": "SE",
+        "cases": "300",
+        "deaths": "0",
+        "location": "60.128161,18.643501"
+    },
+    {
+        "2022": {
+            "cases": 551,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 16,
+            "deaths": 0
+        },
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "cases": "579",
+        "deaths": "0",
+        "location": "46.818188,8.227512"
+    },
+    {
+        "2022": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 673,
+            "deaths": 1
+        },
+        "2024": {
+            "cases": 135,
+            "deaths": 9
+        },
+        "country": "Thailand",
+        "countryCode": "TH",
+        "cases": "820",
+        "deaths": "10",
+        "location": "15.870032,100.992541"
+    },
+    {
+        "2023": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "cases": "4",
+        "deaths": "0",
+        "location": "10.691803,-61.222503"
+    },
+    {
+        "2022": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Turkey",
+        "countryCode": "TR",
+        "cases": "12",
+        "deaths": "0",
+        "location": "38.963745,35.243322"
+    },
+    {
+        "2024": {
+            "cases": 4,
+            "deaths": 0
+        },
+        "country": "Uganda",
+        "countryCode": "UG",
+        "cases": "4",
+        "deaths": "0",
+        "location": "1.373333,32.290275"
+    },
+    {
+        "2022": {
+            "cases": 5,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "cases": "5",
+        "deaths": "0",
+        "location": "48.379433,31.16558"
+    },
+    {
+        "2022": {
+            "cases": 16,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 9,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 3,
+            "deaths": 0
+        },
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "cases": "28",
+        "deaths": "0",
+        "location": "23.424076,53.847818"
+    },
+    {
+        "2022": {
+            "cases": 3730,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 145,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 143,
+            "deaths": 0
+        },
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "cases": "4018",
+        "deaths": "0",
+        "location": "55.378051,-3.435973"
+    },
+    {
+        "2022": {
+            "cases": 30084,
+            "deaths": 52
+        },
+        "2023": {
+            "cases": 1724,
+            "deaths": 7
+        },
+        "2024": {
+            "cases": 1781,
+            "deaths": 1
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "cases": "33590",
+        "deaths": "60",
+        "location": "37.09024,-95.712891"
+    },
+    {
+        "2022": {
+            "cases": 19,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "cases": "19",
+        "deaths": "0",
+        "location": "-32.522779,-55.765835"
+    },
+    {
+        "2022": {
+            "cases": 12,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "2024": {
+            "cases": 0,
+            "deaths": 0
+        },
+        "country": "Venezuela",
+        "countryCode": "VE",
+        "cases": "12",
+        "deaths": "0",
+        "location": "6.42375,-66.58973"
+    },
+    {
+        "2022": {
+            "cases": 2,
+            "deaths": 0
+        },
+        "2023": {
+            "cases": 119,
+            "deaths": 6
+        },
+        "2024": {
+            "cases": 81,
+            "deaths": 2
+        },
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "cases": "202",
+        "deaths": "8",
+        "location": "14.058324,108.277199"
+    },
+    {
+        "country": "",
+        "countryCode": "MN",
+        "location": "46.862496,103.846656"
+    }
+]
