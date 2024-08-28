@@ -142,6 +142,7 @@ async function update() {
                         && !x.country.includes('Europe')
                         && !x.country.includes('Asia')
                     )
+                    .sort((a, b) => new Date(b.date) - new Date(a.date))
                 )
             );
     const filteredArr = filterData(arr)
