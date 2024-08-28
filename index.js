@@ -73,11 +73,12 @@ app.use(express.static(path.join(__dirname, 'dist'))); //  "public" off of curre
 
 app.get('/update', async (req, res) => {
 
-    const filteredArr = update()
+    const filteredArr = await update()
 
     return res.send(filteredArr)
 
 })
+
 async function update() {
     const stream = fs.createWriteStream('./data/MPX-Cases-Deaths-by-Country.csv');
     const { body } = await fetch(CSVLink)
@@ -131,9 +132,21 @@ async function update() {
 
         })
     }
+    console.log(arr);
+    fs.writeFileSync('./dist/dataTable.json', JSON.stringify(
+        arr.filter(x => x.newCases != 0 
+                        && !x.country.includes('Africa') 
+                        && !x.country.includes('North America') 
+                        && !x.country.includes('South America') 
+                        && !x.country.includes('Africa')
+                        && !x.country.includes('Europe')
+                        && !x.country.includes('Asia')
+                    )
+                )
+            );
     const filteredArr = filterData(arr)
     fs.writeFileSync('./dist/data.json', JSON.stringify(filteredArr))
-    console.log(filteredArr);
+    // console.log(filteredArr);
 
     MPOX_DATA = filteredArr;
 
@@ -159,6 +172,7 @@ function filterData(arr) {
             cases: totalCases,
             deaths: totalDeaths,
             location: countries[country][0].location,
+            date: countries[country][0].date
         }
         for (let year = startYear; year <= currentYear; year++) {
             let cases = 0
@@ -197,13 +211,13 @@ app.get('/', async (req, res) => {
 function delay(time) {
     return new Promise(resolve => setTimeout(resolve, time));
 }
-async function run() {
-    while(1) {
-        await update()
-        await delay(24 * 60 * 60 * 1000)
-    }
-}
+// async function run() {
+//     while (1) {
+//         await update()
+//         await delay(24 * 60 * 60 * 1000)
+//     }
+// }
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
-    run()
+    // run()
 })
