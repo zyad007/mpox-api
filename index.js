@@ -70,6 +70,17 @@ app.use(cors())
 
 app.use(express.static(path.join(__dirname, 'dist'))); //  "public" off of current is root
 
+app.get('/data', async (req, res) => {
+    const data = fs.readFileSync('./dist/data.json')
+    
+    res.send(data)
+})
+
+app.get('/data-table', async (req, res) => {
+    const data = fs.readFileSync('./dist/dataTable.json')
+    
+    res.send(data)
+})
 
 app.get('/update', async (req, res) => {
 
@@ -212,13 +223,16 @@ app.get('/', async (req, res) => {
 function delay(time) {
     return new Promise(resolve => setTimeout(resolve, time));
 }
-// async function run() {
-//     while (1) {
-//         await update()
-//         await delay(24 * 60 * 60 * 1000)
-//     }
-// }
+async function run() {
+    while (1) {
+        await update()
+        await delay(24 * 60 * 60 * 1000)
+    }
+}
+
+// update()
+
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
-    // run()
+    run()
 })
