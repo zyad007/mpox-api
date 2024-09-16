@@ -45,7 +45,7 @@ function loadCenterData() {
     const countryCenter = fs.readFileSync('./data/countries-center.csv').toString();
 
     const countryCenterMap = new Map();
-
+    console.log(countryCenter)
     countryCenter.split('\r\n')
         .map(x => {
             const data = x.split(',')
@@ -60,7 +60,7 @@ function loadCenterData() {
         .forEach(x => {
             countryCenterMap.set(x.key, x.value)
         })
-        console.log(countryCenterMap)
+    console.log(countryCenterMap)
     return countryCenterMap
 }
 
@@ -73,13 +73,13 @@ app.use(express.static(path.join(__dirname, 'dist'))); //  "public" off of curre
 
 app.get('/data', async (req, res) => {
     const data = fs.readFileSync('./dist/data.json')
-    
+
     res.send(data)
 })
 
 app.get('/data-table', async (req, res) => {
     const data = fs.readFileSync('./dist/dataTable.json')
-    
+
     res.send(data)
 })
 
@@ -146,17 +146,17 @@ async function update() {
     }
     console.log(arr);
     fs.writeFileSync('./dist/dataTable.json', JSON.stringify(
-        arr.filter(x => x.newCases != 0 
-                        && !x.country.includes('Africa') 
-                        && !x.country.includes('North America') 
-                        && !x.country.includes('South America') 
-                        && !x.country.includes('Africa')
-                        && !x.country.includes('Europe')
-                        && !x.country.includes('Asia')
-                    )
-                    .sort((a, b) => new Date(b.date) - new Date(a.date))
-                )
-            );
+        arr.filter(x => x.newCases != 0
+            && !x.country.includes('Africa')
+            && !x.country.includes('North America')
+            && !x.country.includes('South America')
+            && !x.country.includes('Africa')
+            && !x.country.includes('Europe')
+            && !x.country.includes('Asia')
+        )
+            .sort((a, b) => new Date(b.date) - new Date(a.date))
+    )
+    );
     const filteredArr = filterData(arr)
     fs.writeFileSync('./dist/data.json', JSON.stringify(filteredArr))
     // console.log(filteredArr);
