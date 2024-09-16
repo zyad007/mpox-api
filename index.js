@@ -46,7 +46,7 @@ function loadCenterData() {
 
     const countryCenterMap = new Map();
     console.log(countryCenter)
-    countryCenter.split('\r\n')
+    countryCenter.split('\n')
         .map(x => {
             const data = x.split(',')
             const key = data.shift();
