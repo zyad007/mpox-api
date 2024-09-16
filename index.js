@@ -33,6 +33,7 @@ async function getCountryCode(country) {
             model: 'gpt-3.5-turbo',
 
         });
+        console.log("anas:", response)
         countryCodesCache[country] = response.choices[0].message.content
         return response.choices[0].message.content;
     } catch (error) {
