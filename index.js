@@ -130,7 +130,7 @@ async function update() {
         const newCases = data[i][newCasesIndex]
         const newDeaths = data[i][newDeathsIndex]
         const date = data[i][dateIndex]
-        console.log(location);
+        // console.log(location);
         if (!location) continue
         arr.push({
             country,
