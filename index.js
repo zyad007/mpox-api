@@ -60,7 +60,7 @@ function loadCenterData() {
         .forEach(x => {
             countryCenterMap.set(x.key, x.value)
         })
-
+        console.log(countryCenterMap)
     return countryCenterMap
 }
 
